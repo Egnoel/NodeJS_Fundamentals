@@ -5,8 +5,16 @@
       "url": "http://rockeseat.com.br"
     },
     {
-      "name": "Google",
-      "url": "http://google.com"
+      "name": "GitHub",
+      "url": "http://github.com"
+    },
+    {
+      "name": "Youtube",
+      "url": "http://youtube.com"
+    },
+    {
+      "name": "Stackoverflow",
+      "url": "http://stackoverflow.com"
     }
   ]
 }
